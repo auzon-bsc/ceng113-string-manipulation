@@ -1,2 +1,2 @@
 # StringManipulation-Python
-My second assignment in university. Nucleic string manipulation written in python.
+My second assignment in university. String manipulation written in python.
